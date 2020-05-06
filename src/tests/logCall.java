@@ -8,6 +8,7 @@ public class logCall {
         List<String> names = Arrays.asList(new String[]{"jo", "ozzy", "Ins"});
         for (String name : names) {
             System.out.println("name = " + name);
+            System.out.println("---------------");
         }
     }
 }
